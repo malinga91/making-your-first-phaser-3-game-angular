@@ -1,5 +1,7 @@
 # FirstPhaser3GameDemo
 
+Use angular to implement official example of [Making your first Phaser 3 game](https://phaser.io/tutorials/making-your-first-phaser-3-game).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
 
 ## Development server
